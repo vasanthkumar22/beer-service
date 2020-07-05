@@ -1,1 +1,1 @@
-# beer-service
+# Beer Microservice
