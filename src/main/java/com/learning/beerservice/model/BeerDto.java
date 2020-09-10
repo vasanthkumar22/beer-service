@@ -33,7 +33,7 @@ public class BeerDto {
     private BeerStyleEnum beerStyle;
     @Positive
     @NotNull
-    private Long upc;
+    private String upc;
     @Positive
     @NotNull
     private BigDecimal price;
